@@ -125,4 +125,4 @@ Route	Method(s)	Description
 /register	GET, POST	Register a new user
 /login	GET, POST	User login
 /logout	GET	Log out current user
-/notes	GET	Protected notes page```
+/notes	GET	Protected notes page
