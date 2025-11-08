@@ -1,0 +1,15 @@
+body {
+    min-height: 100vh;
+}
+
+main.container {
+    max-width: 900px;
+}
+
+.card {
+    border-radius: 0.75rem;
+}
+
+.navbar-brand {
+    font-weight: 600;
+}
