@@ -111,7 +111,7 @@ The /logout route ends the session safely.
 | `id`         | Integer       | Primary key                 |
 | `user_id`    | Foreign Key   | Associated user ID          |
 | `content`    | Text          | User’s note content         |
-
+```
 
 🎨 Front-End Design
 - Designed with Bootstrap 5 via CDN.
