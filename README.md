@@ -118,11 +118,11 @@ The /logout route ends the session safely.
 - Shared layout handled by base.html.
 - Each page (login, register, notes) extends the base layout.
 - Includes flash message support for success/error notifications.
-
+```
 🌐 Routes Summary
 Route	Method(s)	Description
 /	GET	Home route
 /register	GET, POST	Register a new user
 /login	GET, POST	User login
 /logout	GET	Log out current user
-/notes	GET	Protected notes page
+/notes	GET	Protected notes page```
